@@ -92,3 +92,84 @@ int main()
 	}
 	return 0;
 }
+
+/*bmsce@bmsce-Precision-T1700:~$ cd Desktop
+bmsce@bmsce-Precision-T1700:~/Desktop$ gcc linkedList.c
+bmsce@bmsce-Precision-T1700:~/Desktop$ ./a.out
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+1
+
+Enter element to be inserted
+10
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+1
+
+Enter element to be inserted
+20
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+1
+
+Enter element to be inserted
+30
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+3
+
+Elements in list are
+
+30
+20
+10
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+2
+
+Enter element to be inserted
+40
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+3
+
+Elements in list are
+
+30
+20
+10
+40
+1.Insert front element 
+2.Insert end element
+3.Display
+4.Exit
+
+Enter option
+4
+bmsce@bmsce-Precision-T1700:~/Desktop$ ^C
+bmsce@bmsce-Precision-T1700:~/Desktop$ 
+*/
